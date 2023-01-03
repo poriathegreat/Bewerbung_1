@@ -132,3 +132,6 @@ wann bist du geboren? Ich bin am 18.08.93
 
 
 20:zwanzig, 30:dreißig, 40:vierzig, 50: fünfzig, 60: sechzig, 70: siebzig, 80: achtzig, 90: neunzig
+
+
+jijing
